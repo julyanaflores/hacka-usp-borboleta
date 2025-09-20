@@ -1,0 +1,12 @@
+node_modules
+.dist
+.dist-ssr
+dist
+dist-ssr
+.vite
+.git
+.gitignore
+Dockerfile
+npm-debug.log*
+.yarn
+.pnpm-store
